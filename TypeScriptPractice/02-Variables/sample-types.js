@@ -1,0 +1,12 @@
+var completed1 = true;
+var gpa1 = 3.97;
+var firstName1 = "Lakshmi";
+var lastName1 = "Telidevara";
+var myData11 = 96.0;
+var myData12 = 'The grade in the exam is ';
+var myData13 = 'A';
+var myData14 = ' and the score is ';
+console.log(completed1);
+console.log("The GPA of " + firstName1 + " " + lastName1 + " is " + gpa1);
+console.log("Hi, ".concat(firstName1, " ").concat(lastName1, "'s GPA is ").concat(gpa1));
+console.log("".concat(myData12).concat(myData13).concat(myData14).concat(myData11));
