@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "@okta/okta-angular": "^5.1.1",
+    "@okta/okta-signin-widget": "^6.1.2"
   }
 }
